@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # --- Carregamento dos dados ---
-df = pd.read_csv("BD_CERTO.csv")
+df = pd.read_csv("Restaurante/BD_CERTO.csv")
 
 # --- Conversão de Datas ---
 
@@ -265,4 +265,5 @@ with col_graf5:
         st.warning("Nenhum dado para exibir no gráfico de faturamento médio diário.")
 # --- Tabela de Dados Detalhados ---
 st.subheader("Dados Detalhados")
+
 st.dataframe(df_filtrado)
