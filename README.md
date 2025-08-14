@@ -1,5 +1,8 @@
 # 📊 Dashboard Interativo — Vendas de uma Rede de Restaurantes
 
+![Visão Geral do Dashboard](Restaurante/img1.png)
+![Exemplo de Gráfico](Restaurante/img2.png)
+
 Este projeto foi desenvolvido como prática de análise de dados utilizando Python, me inspirando nos conceitos passados durante a imersão de dados da Alura, com o objetivo de explorar e visualizar informações de vendas de uma rede de restaurantes. Utilizando bibliotecas como Pandas, Plotly e Streamlit, criei um dashboard interativo que permite filtrar e analisar dados.
 
 ## Funcionalidades
